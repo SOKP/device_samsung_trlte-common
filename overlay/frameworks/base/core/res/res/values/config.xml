@@ -398,7 +398,7 @@
             64 - Volume rocker
          For example, a device with Home, Back and Menu keys would set this
          config to 7. -->
-    <integer name="config_deviceHardwareWakeKeys">65</integer>
+    
 
     <bool name="config_enableWifiDisplay">true</bool>
 
@@ -448,7 +448,7 @@
     <integer name="config_overrideHasPermanentMenuKey">2</integer>
 
     <!-- Boolean to enable Stylus gestures -->
-    <bool name="config_stylusGestures">true</bool>
+    
 
     <!-- Boolean to enable stk functionality on Samsung phones -->
     <bool name="config_samsung_stk">true</bool>
